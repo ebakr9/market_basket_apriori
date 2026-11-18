@@ -1,4 +1,3 @@
-# market_basket_apriori
 
 # Market Basket Analysis with Apriori Algorithm
 
