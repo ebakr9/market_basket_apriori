@@ -2,7 +2,9 @@
 # Market Basket Analysis with Apriori Algorithm
 
 ## Project Overview
+## Open in Google Colab
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ebakr9/market_basket_apriori/blob/main/market_basket.ipynb)
 This project applies the Apriori algorithm to the IMDb Top 1000 Movies and TV Shows dataset. The main goal is to find groups of actors who frequently appear together in movies.
 
 Each movie is treated as a basket, and each actor is treated as an item. The Apriori algorithm is implemented in Python using the join, prune, and support counting steps.
